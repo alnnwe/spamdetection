@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Данные скачиваются скриптом (python -m src.data), в git не храним
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Обученные модели воспроизводятся скриптом
+models/*.joblib
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store

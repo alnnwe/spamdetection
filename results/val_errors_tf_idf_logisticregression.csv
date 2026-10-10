@@ -1,0 +1,20 @@
+error_type,spam_proba,label,text
+FP (обычное SMS помечено как спам),0.7419,ham,"Sir, i am waiting for your call."
+FP (обычное SMS помечено как спам),0.7861,ham,I'm vivek:)i got call from your number.
+FN (спам пропущен),0.2735,spam,For sale - arsenal dartboard. Good condition but no doubles or trebles!
+FN (спам пропущен),0.2635,spam,Want explicit SEX in 30 secs? Ring 02073162414 now! Costs 20p/min
+FP (обычное SMS помечено как спам),0.5435,ham,You call him now ok i said call him
+FN (спам пропущен),0.0479,spam,"Do you ever notice that when you're driving, anyone going slower than you is an idiot and everyone driving faster than you is a maniac?"
+FP (обычное SMS помечено как спам),0.5937,ham,Alright i have a new goal now
+FN (спам пропущен),0.087,spam,"Do you realize that in about 40 years, we'll have thousands of old ladies running around with tattoos?"
+FP (обычное SMS помечено как спам),0.6009,ham,Thankyou so much for the call. I appreciate your care.
+FP (обычное SMS помечено как спам),0.5397,ham,Hi Harish's rent has been transfred to ur Acnt.
+FN (спам пропущен),0.4703,spam,"Download as many ringtones as u like no restrictions, 1000s 2 choose. U can even send 2 yr buddys. Txt Sir to 80082 £3"
+FP (обычное SMS помечено как спам),0.8261,ham,"Call me da, i am waiting for your call."
+FP (обычное SMS помечено как спам),0.5218,ham,Nokia phone is lovly..
+FP (обычное SMS помечено как спам),0.5022,ham,"Urgh, coach hot, smells of chip fat! Thanks again, especially for the duvet (not a predictive text word)."
+FP (обычное SMS помечено как спам),0.6038,ham,"Fuuuuck I need to stop sleepin, sup"
+FP (обычное SMS помечено как спам),0.5472,ham,Who's there say hi to our drugdealer
+FP (обычное SMS помечено как спам),0.56,ham,As per your request 'Melle Melle (Oru Minnaminunginte Nurungu Vettam)' has been set as your callertune for all Callers. Press *9 to copy your friends Callertune
+FP (обычное SMS помечено как спам),0.9689,ham,Waiting for your call.
+FN (спам пропущен),0.4786,spam,"0A$NETWORKS allow companies to bill for SMS, so they are responsible for their ""suppliers"", just as a shop has to give a guarantee on what they sell. B. G."

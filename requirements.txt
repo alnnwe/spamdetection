@@ -1,0 +1,8 @@
+# Python 3.11+ (проверено на Python 3.12)
+numpy==2.4.4
+pandas==3.0.2
+scikit-learn==1.8.0
+matplotlib==3.10.8
+joblib==1.5.3
+# для запуска ноутбуков
+jupyterlab

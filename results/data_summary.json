@@ -1,0 +1,20 @@
+{
+  "raw_rows": 5574,
+  "rows_after_cleaning": 5574,
+  "rows_before_dedup": 5574,
+  "duplicates_removed": 415,
+  "texts_with_conflicting_labels": 0,
+  "rows_final": 5159,
+  "spam_share_final": 0.1244,
+  "split_sizes": {
+    "train": 3611,
+    "val": 774,
+    "test": 774
+  },
+  "spam_share_by_split": {
+    "train": 0.1246,
+    "val": 0.124,
+    "test": 0.124
+  },
+  "random_state": 42
+}
