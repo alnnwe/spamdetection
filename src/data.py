@@ -29,7 +29,7 @@ def download_raw(force: bool = False) -> Path:
     try:
         with urllib.request.urlopen(DATA_URL, timeout=60) as response:
             archive = response.read()
-    except Exception as err:  # нет интернета, сайт недоступен и т.п.
+    except Exception as err:  # нет интернета, сайт недоступен и тд
         raise RuntimeError(
             "Не удалось скачать датасет автоматически. Скачайте архив вручную по ссылке\n"
             f"  {DATA_URL}\n"
